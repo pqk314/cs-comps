@@ -1,0 +1,1 @@
+To complete this task we can use the sort and uniq commands and the piping function to find a unique line. By executing the command 'sort data.txt | uniq -u' we can see that the password is '4CKMh1JI91bUIZZPXDqGanal4xvAg0JM'.

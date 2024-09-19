@@ -1,0 +1,1 @@
+To solve bandit3 we need to find the file 'spaces in this filename' using ls. Then we can enclose the filename in quotes to allow it to be opened with 'cat "spaces in this filename"'. In this case either single or double quotes works. The password is 'MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx'.

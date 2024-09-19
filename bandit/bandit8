@@ -1,0 +1,1 @@
+To complete bandit 8 you must find the word in data.txt that is next to the word millionth. To do so you can use the command 'grep millionth data.txt' to find that the password is 'dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc'.

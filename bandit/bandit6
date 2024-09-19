@@ -1,0 +1,1 @@
+To complete bandit6 you can find a file that is 1033 bytes with the command 'find . -size 1033c'. This returned the only file that was 1033 bytes and inside it was the password 'HWasnPhtq9AVKe0dmk45nxy20cvUa6EG'.

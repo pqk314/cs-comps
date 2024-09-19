@@ -1,0 +1,1 @@
+To complete bandit4 you must enter the directory 'inhere' with cd. Then to find the hidden file you can use 'ls -a' this shows that the name of the file is '...Hiding-From-You'. Then using 'cat ...Hiding-From-You' we can see that the password is '2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ'.
