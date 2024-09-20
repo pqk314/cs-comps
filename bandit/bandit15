@@ -1,0 +1,1 @@
+To solve bandit15 you first have to find the password which it tells you is in the /ect/bandit_pass diretory. I found that the password for bandit14 was 'MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS'. Then if you use the command 'nc localhost 30000' it will let you input the password and will then tell you that the next password is '8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo'.

@@ -1,0 +1,1 @@
+To complete bandit 11 you must decode a password that is in base64. To do so you can use the base64 command with the decode flag to decode it. By running the command 'cat data.txt | base64 -d' I found that the password is 'dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr'.

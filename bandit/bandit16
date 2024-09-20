@@ -1,0 +1,1 @@
+To solve bandit 16 you first need to find the password for bandit15 in 'etc/bandit_pass/bandit15' which was '8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo'. Then you need to use openssl to execute the command 'openssl s_client -connect bandit.labs.overthewire.org:30001' then once you enter the password it will tell you that the next password is 'kSkvUpMQ7lBYyCM4GBPvCvT1BfWRy0Dx'. 
